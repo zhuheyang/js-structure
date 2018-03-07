@@ -1,0 +1,12 @@
+{
+  "name": "JS_Structure",
+  "version": "1.0.0",
+  "description": "goog.structs.Heap, PriortyQueue",
+  "main": "ArrayToStack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
